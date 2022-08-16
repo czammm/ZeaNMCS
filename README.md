@@ -1,0 +1,2 @@
+# ZeaNMCS
+ZeaN Minecraft Server
